@@ -1,0 +1,6 @@
+[30-May-2023 09:26:50 UTC] PHP Notice:  Undefined index: Subject in /home/shreerampowereng/public_html/fauz/forms/contact.php on line 12
+[30-May-2023 09:26:50 UTC] PHP Notice:  Undefined variable: msg in /home/shreerampowereng/public_html/fauz/forms/contact.php on line 15
+[30-May-2023 09:26:50 UTC] PHP Notice:  Undefined variable: phone in /home/shreerampowereng/public_html/fauz/forms/contact.php on line 17
+[30-May-2023 09:26:53 UTC] PHP Notice:  Undefined index: Subject in /home/shreerampowereng/public_html/fauz/forms/contact.php on line 12
+[30-May-2023 09:26:53 UTC] PHP Notice:  Undefined variable: msg in /home/shreerampowereng/public_html/fauz/forms/contact.php on line 15
+[30-May-2023 09:26:53 UTC] PHP Notice:  Undefined variable: phone in /home/shreerampowereng/public_html/fauz/forms/contact.php on line 17

@@ -1,0 +1,12 @@
+[30-May-2023 09:44:14 UTC] PHP Notice:  Undefined index: Subject in /home/shreerampowereng/public_html/fauz/contact.php on line 12
+[30-May-2023 09:44:14 UTC] PHP Notice:  Undefined variable: msg in /home/shreerampowereng/public_html/fauz/contact.php on line 15
+[30-May-2023 09:44:14 UTC] PHP Notice:  Undefined variable: phone in /home/shreerampowereng/public_html/fauz/contact.php on line 17
+[30-May-2023 09:47:06 UTC] PHP Notice:  Undefined index: Subject in /home/shreerampowereng/public_html/fauz/contact.php on line 12
+[30-May-2023 09:47:06 UTC] PHP Notice:  Undefined variable: msg in /home/shreerampowereng/public_html/fauz/contact.php on line 15
+[30-May-2023 09:47:06 UTC] PHP Notice:  Undefined variable: phone in /home/shreerampowereng/public_html/fauz/contact.php on line 17
+[30-May-2023 09:47:58 UTC] PHP Notice:  Undefined index: Subject in /home/shreerampowereng/public_html/fauz/contact.php on line 12
+[30-May-2023 09:47:58 UTC] PHP Notice:  Undefined variable: msg in /home/shreerampowereng/public_html/fauz/contact.php on line 15
+[30-May-2023 09:47:58 UTC] PHP Notice:  Undefined variable: phone in /home/shreerampowereng/public_html/fauz/contact.php on line 17
+[30-May-2023 09:50:30 UTC] PHP Notice:  Undefined index: Subject in /home/shreerampowereng/public_html/fauz/contact.php on line 12
+[30-May-2023 09:50:30 UTC] PHP Notice:  Undefined variable: msg in /home/shreerampowereng/public_html/fauz/contact.php on line 15
+[30-May-2023 09:50:30 UTC] PHP Notice:  Undefined variable: phone in /home/shreerampowereng/public_html/fauz/contact.php on line 17
